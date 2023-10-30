@@ -1,0 +1,4 @@
+Python3
+Flask
+gunicorn
+requests
